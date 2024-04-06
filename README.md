@@ -10,5 +10,5 @@ This Project consists Data Analytics of IPL Auction . Data Manipulation is done 
 
 ## Images
 
-![https://github.com/ArunSundar-471/IPL_Auction-Data-Analysis/blob/main/final%20price.png]https://myoctocat.com/assets/images/base-octocat.svg
+![https://github.com/ArunSundar-471/IPL_Auction-Data-Analysis/blob/main/final%20price.png](https://myoctocat.com/assets/images/base-octocat.svg)
 
